@@ -1,0 +1,143 @@
+Warning: The prices on these purchase orders are in a variety of currencies.
+I have added a country indicator to the total fields.
+
+
+================================================================================
+Olimex
+www.olimex.com
+================================================================================
+
+Item                      Cost
+DSS re-order AG120902     $20.80
+Non standard drill sizes  $1.05
+Exceed 500 holes limit    $2.60
+Airmail shipment          $8.00
+
+Total                     US$32.45
+
+================================================================================
+Dick Smith Electronics
+www.dse.co.nz
+================================================================================
+
+Unit-Total Code Product    Description          Qty       Price Price
+---------------------------------------------------------------------
+1 R4770  Cap Tag Tantalum 6.3V 47  uF            2        $1.95 $3.90
+2 P4245  IC Socket 28-Pin DIL DWLPT              1        $1.30 $1.30
+3 P4160  IC Socket 16-Pin DIL DWLPT              1        $0.75 $0.75
+4 P4080  IC Socket 8-Pin DIL/DIP DWLPT           8        $0.55 $4.40
+5 P4300  IC Skt Strip of 32 Machine Pin          1        $5.95 $5.95
+6 Z4087  LED 5mm Circular GRN Prem Qlty          1        $0.70 $0.70
+7 R2070  Cap GREEN 100VDC 5% 0.033 uF            2        $0.50 $1.00
+8 R2055  Cap GREEN 100VDC 5% 0.01  uF            2        $0.50 $1.00
+9 R3029  Cap MKT  0.22  uF 63 WVDC 5%            8        $0.80 $6.40
+10 R0574 Res MF.25W  1k0 Brn-Blk-Red-Br          7        $0.15 $1.05
+11 R0566 Res MF.25W 470R Yel-Vio-Brn-Br          10       $0.15 $1.50
+
+---------------------------------------------------------------------
+
+Shipping cost
+$5.00
+
+Sub-Total
+$32.95
+
+Total Amount Due
+NZ$32.95
+
+Ship by: North Island Courier
+
+================================================================================
+farnell
+www.farnell.com
+================================================================================
+
+Order code	Qty	Description						Price
+150520			1		SWITCH ROCKER WHITE		$3.20
+966990			1		CAPACITOR 47UF 35V		$9.04
+
+Shipping $5.00
+Total NZ$17.24
+
+================================================================================
+Reichelt Electronics
+www.reichelt.de (use babelfish.altavista.com)
+================================================================================
+
+
+Menge   Artikelnummer   Bezeichnung             WG      EP      GP
+1       1N 5818         Diode           1       0,0517241379310345      0,05
+3       64Y-10K         25-GANG-TRIMMER STEHEN  1       0,5517  1,66
+2       6N 139          OPTOKOPPLER             1       0,5948  1,19
+1       7,3728-HC49U-S  STANDARD-QUARZ          1       0,4224  0,42
+1       AT 90S4433 PDIP AVR 8BIT RISC MCU       0       6,4655  6,47
+1       BAT 48          DIODE           1       0,1552  0,16
+4       BC 547B         TRANSISTOR              1       0,0431  0,17
+4       BC 557B         TRANSISTOR              1       0,0431  0,17
+2       INA 114AP       INTSTRUMENTATION AMP.   1       6,7672  13,53
+4       KERKO-500 100P  KERAMIK-KONDENSATOR     1       0,0603  0,24
+2       KERKO-500 10P   KERAMIK-KONDENSATOR     1       0,0603  0,12
+1       KERKO-500 27P   KERAMIK-KONDENSATOR     1       0,0603  0,06
+2       KERKO-500 56P   KERAMIK-KONDENSATOR     1       0,0603  0,12
+1       LU 2,5 MS 2     STIFTL. GERADE, RM 2,5  1       0,1724  0,17
+1       MAX 232 ECPE    IC              1       4,13793103448276        4,14
+2       METALL 1,00K    Metallschichtwiderstand 1,00 K-Ohm      1       0,069   0,14
+6       METALL 1,00M    Metallschichtwiderstand 1,00 M-Ohm      1       0,069   0,41
+9       METALL 10,0K    Metallschichtwiderstand 10,0 K-Ohm      1       0,069   0,62
+3       METALL 100      Metallschichtwiderstand 100 Ohm 1       0,069   0,21
+4       METALL 100K     Metallschichtwiderstand 100 K-Ohm       1       0,069   0,28
+3       METALL 15,0K    Metallschichtwiderstand 15,0 K-Ohm      1       0,069   0,21
+16      METALL 2,20K    Metallschichtwiderstand 2,20 K-Ohm      1       0,0414  0,66
+1       METALL 200K     Metallschichtwiderstand 200 K-Ohm       1       0,069   0,07
+10      METALL 470K     Metallschichtwiderstand 470 K-Ohm       1       0,0414  0,41
+6       METALL 7,50K    Metallschichtwiderstand 7,50 K-Ohm      1       0,069   0,41
+2       METALL 8,20K    Metallschichtwiderstand 8,20 K-Ohm      1       0,069   0,14
+1       METALL 9,10K    Metallschichtwiderstand 9,10 K-Ohm      1       0,069   0,07
+4       MKH100-10 1,0µ  KONDENSATOR             1       0,2586  1,03
+3       SMCC 22µ        FESTINDUKTIVITÄT/AXIAL  1       0,1638  0,49
+3       STIFTL. 2X17G   STIFTLEISTE GERADE      1       0,181   0,54
+1       STIFTL. 2X36G   STIFTLEISTE GERADE      1       0,2414  0,24
+2       TANTAL 1,0/35   TROPFENFORM             1       0,128   0,26
+6       TANTAL 10/16    * TROPFENFORM           1       0,1897  1,14
+3       TANTAL 47/6,3   TROPFENFORM             1       0,2845  0,85
+1       TL 431 ACLP     IC              1       0,258620689655172       0,26
+4       TLC 277 DIP     IC-SCHALTUNG            1       1,4224  5,69
+4       X7R-5 1,0N      VIELSCHICHTKONDENSATOR  1       0,0603  0,24
+19      X7R-5 100N      VIELSCHICHTKONDENSATOR  1       0,1034  1,96
+5       X7R-5 10N       VIELSCHICHTKONDENSATOR  1       0,0603  0,3
+1       SHIPPING CHARGES        +BANKCOST/INSURANCE     0       45      45
+
+                        Shipment will be effected immediately
+                        after receiving of payment.
+                        bank details: Sparkasse Wilhelmshaven
+                                           BLZ 282 501 10
+                                           Kto: 38 16 170
+                        Please note of your remittance
+                        "Vorkasse" and No. of proforma invoice
+                        (heavy type)
+                        Best regards
+                        Reichelt Elektronik
+
+                        Attention!
+                        Please give us your correct adres!
+
+
+
+Währung: Euro
+
+Warenwert               Spesen          Vers.           Mwst.           Summe
+       E90.30            0.00            0.00            0.00           E90.30
+
+================================================================================
+RS-Components
+rs-components.co.nz
+(the part ordered was an NMV0505SA dc-dc convertor)
+================================================================================
+
+STOCKNO; QUANTITY; TOTAL PRICE
+1920826;  1;  37.62
+
+Delivery Cost (New Zealand wide courier):  
+Total excl. GST:  42.57
+GST 12.5%      :  5.32
+Total incl. GST:  NZ$47.89

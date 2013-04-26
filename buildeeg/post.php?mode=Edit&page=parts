@@ -1,0 +1,82 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Final//EN">
+<html>
+	<head>
+		<title>Building an EEG at home</title>
+		<meta http-equiv="charset" content="text/html; charset=ISO-8859-1">
+		<meta name="author" content="Dan Griffiths">
+		<meta name="keywords" content="EEG, electroencephalograph, encephalograph, cheap, DIY">
+
+		<link rel="stylesheet" type="text/css" href="ss.css">
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	</head>
+<body text="#000000" bgcolor="#ffffff" link="#0000ee" vlink="#551a8b" alink="#ff0000">
+
+<table class="title" width="100%">
+<tr>
+	<td align="center" width="25%">
+		<img src="images/title_s.gif" alt="Title image"></td>
+	<td colspan="3" align="center" style="vertical-align: middle;">
+		<strong>Building an EEG at home with the OpenEEG project</strong>
+<h1>Comments and suggestions</h1>
+	</td>
+</tr>
+</table>
+
+<table class="nav_t" width="100%">
+<tr>
+	<td align="center" width="25%" class="nav">
+		<a href="index.php">Home</a>
+	</td>
+	<td align="center" width="25%" class="nav">
+		<a href="parts.php">Back</a>
+	</td>
+</table>
+
+
+<p>
+	
+<p>This page is for posting comments and ideas that will help people build an OpenEEG.</p>
+
+<p>
+If you have questions please do not post them here. That is what the <a href="http://lists.sourceforge.net/lists/listinfo/openeeg-list">mailing lists</a> are for.</p>
+
+<p>These comments can and will be edited at the webmasters discretion.  </p>
+
+<p> Messages can be sent to the webmaster <a href="post.php?mode=Edit&page=webmaster">here</a>. </p>
+	</p>
+
+<form method="post" action="post.php?page=parts">
+<table align="center" class="input">
+<tr>
+	<td align="right">Name or email address (optional)</td>
+	<td colspan="2"><input name="email" size="50" value=""></td>
+</tr>
+<tr>
+	<td align="right">Subject</td>
+	<td colspan="2"><input name="subject" value="" size="50"></td>
+</tr>
+<tr>
+	<td valign="top" align="right">Comment</td>
+	<td colspan="2"><textarea name="comment" cols="50" rows="10" wrap="virtual"></textarea></td>
+</tr>
+<tr>
+	<td>&nbsp;</td>
+	<td align="left">
+		<input type="reset">
+	</td>
+	<td align="right">
+		<input type="submit" name="mode" value="Preview">
+	</td>
+</tr>
+</table>
+</form>
+
+<p>
+&nbsp;
+</p>
+
+
+</body>
+</html>

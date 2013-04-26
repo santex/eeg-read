@@ -1,0 +1,104 @@
+body {
+	font-family: sans-serif, helvetica;
+	background-color: white;
+	border: solid thin #aaaaff;
+	margin: 1em;
+	padding: 0em;
+
+	scrollbar-arrow-color: blue;
+  scrollbar-base-color: blue;
+  scrollbar-dark-shadow-color: blue;
+  scrollbar-track-color: darkblue;
+  scrollbar-face-color: #ddddff;
+  scrollbar-shadow-color: blue;
+  scrollbar-highlight-color: white;
+  scrollbar-3d-light-color: white;
+}
+
+li {
+	margin-bottom: 0.1em;
+}
+
+p, ul {
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+h2 {
+	margin-left: 1em;
+	padding-top: 1em;
+}
+
+a { text-decoration: none;
+	font-weight: bolder;
+}
+
+a:hover {
+	background-color: #aaffff;
+}
+
+img {
+	border: none;
+}
+
+.imagepadded {
+	border: none;
+	padding: 1em;
+}
+
+table, tr, td {
+	border: none;
+}
+
+ul {
+	margin-top: 0em;
+}
+
+.title {
+	background: #ddddff;
+}
+
+.total {
+	border-top: thin solid black;
+}
+
+.boxed {
+	border: solid thin #aaaaff; 
+	background: #ddddff;
+}
+
+.nav_t {
+	border-top: solid thin #aaaaff;
+	border-bottom: solid thin #aaaaff;
+	background: #ddddff;
+}
+
+.nav_b {
+	border-top: solid thin #aaaaff;
+	background: #ddddff;
+}
+
+.indented {
+	margin-left: 1em;
+	margin-right: 1em;
+	padding: 1em;
+	border: solid thin #aaaaff;
+	background-color: #eeeeff;
+}
+
+.nav {
+	border: solid thin #aaaff;
+	background-color: #bbbbff;
+}
+
+.input {
+	background-color: #ddddff;
+	border: solid thin #bbbbff;
+	padding: 1em;
+}
+
+.comments {
+	border-top: solid thin #bbbbff;
+	border-bottom: solid thin #bbbbff;
+	background-color: #ddddff;
+}
